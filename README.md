@@ -53,6 +53,6 @@ Experimental note
 ---
 
 ## ライセンス
-MIT License
-Gravity Time Space Resarch Institute
+-MIT License
+-Gravity Time Space Resarch Institute
 Jun Tanimoto
